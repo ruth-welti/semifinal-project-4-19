@@ -1,2 +1,2 @@
 # semifinal-project-4-19
-This will contain Python project on lipid annotation.
+This will contain my Python project on lipid annotation.
